@@ -19,15 +19,15 @@ class Element {
         this.sub_arr = false;
     }
 
-    draw(i, color = 255) {
+    draw(i, color = 0) {
         fill(color);
         if (this.compare == true) {
-            fill(0, 0, 255);
+            fill(0, 100, 255);
         }
         if (this.swap == true) {
-            fill(255, 0, 0);
+            fill(255, 120, 203);
         }
-        stroke(0);
+        stroke(251);
         this.swap = false;
         this.compare = false; //reset the vals as i only want one time display
         this.pivot = false; //waste delete it later(arr.pivot prop)
@@ -147,7 +147,7 @@ function slider_control() {
     var frm_slider = document.getElementById("frm");
     // console.log(frm_slider);
     frm_slider.oninput = function () {
-        //cant cange vals superfast
+        //cant change values superfast
         //so we do according to range of slider
         if (this.value == 0) {
             frame_rate_val = 0;
@@ -192,8 +192,7 @@ function start_sort(algo) {
     loop_counter = algo_dict[algo](arr);
 }
 function draw() {
-    background(0);
-
+    background(255,192,255);
     if (start_sorting == true) {
         loop_counter.next();
     }
@@ -204,7 +203,7 @@ function draw_arr() {
     for (let i = 0; i < arr.length; i++) {
         arr[i].draw(i);
         if (sorted_arr[i] == arr[i].val) {
-            arr[i].draw(i, color(0, 255, 0));
+            arr[i].draw(i, color(255, 0, 255));
         }
     }
 }

@@ -1,14 +1,14 @@
 # Sorting Visualizer
-
+live project(https://rajshreevats.github.io/sorting-visualizer-/)
 ---
 
 ## Description
 
 This is a sorting visualizer project to visualize a sorting algorithm. Each element of the array is displayed as a bar.  colour codes used as: 
 
-1. Red - Swap
+1. Pastel pink - Swap
 2. Blue - Comparison 
-3. Green - Element is in sorted position
+3. Magenta - Element is in sorted position
 
 It compares the time taken by the different algorithm for sorting the array.
 

@@ -7,10 +7,10 @@
     color: white;
 }
 body {
-    background: #296186;
+    background: #7d3df5;
 }
 nav {
-    background: #41acd1;
+    background: #7d3df5;
     width: 100%;
 }
 nav:after {
@@ -43,7 +43,7 @@ nav ul li a {
 } */
 .clickable:hover {
     border-radius: 5px;
-    border-bottom: 1px solid #33ffff;
+    border-bottom: 1px solid #68ffff;
     cursor: pointer;
 }
 nav ul ul {
@@ -58,7 +58,7 @@ nav ul :hover > ul {
 }
 
 nav ul ul li {
-    background-color: #f3697b;
+    background-color: #b13ee7;
     position: relative;
     margin: 0px;
     width: 200px;
@@ -68,7 +68,7 @@ nav ul ul li {
 }
 
 .range-input {
-    background: teal;
+    background: rgb(28, 235, 235);
     -webkit-appearance: none;
     height: 2px;
     outline: none;
