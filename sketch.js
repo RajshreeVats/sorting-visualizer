@@ -1,7 +1,7 @@
 //constants/globals
 var arr = Array(0);
-const width = window.innerWidth;
-const height = window.innerHeight - 200;
+const width = window.innerWidth - 20;
+const height = window.innerHeight - 75;
 var thick = 20;
 var len_arr = Math.floor(width / thick);
 var sorted_arr = Array(0);
