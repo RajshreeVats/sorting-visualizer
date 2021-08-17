@@ -17,10 +17,11 @@ It compares the time taken by the different algorithm for sorting the array.
 
 ### languages used
 
-- HTML 
-- CSS
 - Javascript 
-(p5.js) [library]
+- HTML 
+### library
+- P5.js
+
 
 ---
 
