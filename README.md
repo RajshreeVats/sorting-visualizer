@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-live project(https://rajshreevats.github.io/sorting-visualizer/)
+View project [Here](https://rajshreevats.github.io/sorting-visualizer/)
 ---
 
 ## Description
