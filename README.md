@@ -26,7 +26,7 @@ It compares the time taken by the different algorithm for sorting the array.
 
 
 ## References
-[Algorith specialization by standford university] (https://www.coursera.org/specializations/algorithms?)
+[Algorithm](https://www.coursera.org/specializations/algorithms?) specialization by standford university
 [freecodecamp.org](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V).
 
 the algorithms used 
