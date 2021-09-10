@@ -37,7 +37,7 @@ The algorithms used
 - [Quick Sort]
 
 
-[⏫](#read-me-template)
+[Back to top](#read-me-template) ⏫
 
 --- ❤️ ---
 
