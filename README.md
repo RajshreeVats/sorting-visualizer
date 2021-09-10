@@ -1,36 +1,35 @@
-# Sorting Visualizer
+# Sorting Visualizer 🧮
 
-View project [Here](https://rajshreevats.github.io/sorting-visualizer/)
+View project [Here](https://rajshreevats.github.io/sorting-visualizer/) 👀
 ---
 
-## Description
+## Description 🗒
 
 This is a sorting visualizer project to visualize a sorting algorithm. Each element of the array is displayed as a bar.  colour codes used as: 
 
-1. Pastel pink - Swap
-2. Blue - Comparison 
-3. Magenta - Element is in sorted position
+1. Pastel pink - Swap ↔️
+2. Blue - Comparison ⚖️
+3. Magenta - Element is in sorted position 📊
 
-It compares the time taken by the different algorithm for sorting the array.
+It compares the time taken by the different algorithm for sorting the array. ⏲️
 
 
 
-### languages used
+### languages used 💻
 
 - Javascript 
-- HTML 
-### library
+### library 🖥️
 - P5.js
 
 
 ---
 
 
-## References
-[Algorithm](https://www.coursera.org/specializations/algorithms?) specialization by standford university
+## References 📚
+[Algorithm](https://www.coursera.org/specializations/algorithms?) specialization by standford university and 
 [freecodecamp.org](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V).
 
-the algorithms used 
+The algorithms used  
 
 - [Bubble Sort]
 - [Selection Sort]
@@ -38,7 +37,7 @@ the algorithms used
 - [Quick Sort]
 
 
-[Back To The Top](#read-me-template)
+[⏫](#read-me-template)
 
----
+--- ❤️ ---
 
